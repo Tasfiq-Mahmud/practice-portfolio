@@ -61,7 +61,14 @@ p{
     border-image-slice: 1;
 }
 #stack-dev{
+    margin-left: 80px;
     border-left: 7px solid;
     border-image: linear-gradient(tomato,orange);
     border-image-slice: 1;
+}
+footer{
+    text-align:center;
+}
+#centerize{
+    text-align: center;
 }
